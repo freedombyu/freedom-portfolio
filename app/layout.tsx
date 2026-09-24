@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import './globals.css';
 
+
 export const metadata: Metadata = {
   metadataBase: new URL('https://freedom-mukanza.vercel.app'),
   title: { default: 'Freedom Mukanza | Junior Software Developer', template: '%s | Freedom Mukanza' },
